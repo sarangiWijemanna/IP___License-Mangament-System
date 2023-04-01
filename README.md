@@ -32,10 +32,10 @@ Once the system-administrator logs-in through the license manager GUI, he will n
 
 ## Screenshots
 
-- Process 1: 
+- License : 
     ![App Screenshot](https://github.com/sarangiWijemanna/P___License-Mangament-System/blob/main/LMs.png)
 
-- Process 2: 
+- License Generator : 
     ![App Screenshot](https://github.com/sarangiWijemanna/P___License-Mangament-System/blob/main/LMs2.png)
 
 ## Collaboration 
